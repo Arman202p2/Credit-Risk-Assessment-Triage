@@ -1,0 +1,7 @@
+name: credit-risk-triage
+version: "1.0.0"
+description: An environment where an AI agent triages loan applications based on credit scores, income, and OCR document notes.
+tags:
+  - openenv
+  - finance
+  - data-triage
